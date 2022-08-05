@@ -4,7 +4,7 @@
 A system developed in yolov3 to detect Marker Photo , video or in live webcam video.
 
 ## Dataset
- Dataset was collected by clicking photos of marker in different angles. Special thanks to [Sanish Shrestha]() for providing me photos for dataset.
+ Dataset was collected by clicking photos of marker in different angles. Special thanks to [Sanish Shrestha](https://github.com/shresthasanish24) for providing me photos for dataset.
 
  ## Model tranning file
 
