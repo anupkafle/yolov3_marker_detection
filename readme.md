@@ -12,7 +12,7 @@ A system developed in yolov3 to detect Marker Photo , video or in live webcam vi
 
  ## Steps to run
 
- 1. Clone this [Repo]()
+ 1. Clone this [Repo](https://github.com/anupkafle/yolov3_marker_detection.git)
  2. Create Virtual Enviroment and activate
     >python -m venv yolo_env 
  3. Install requirements.txt
