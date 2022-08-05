@@ -23,7 +23,7 @@ A system developed in yolov3 to detect Marker Photo , video or in live webcam vi
     >test_on_photo.py
 # Output
 ## Detection on image
-![Screenshot](Detected\photo.JPG)
+![Screenshot](https://github.com/anupkafle/yolov3_marker_detection/blob/master/Detected/photo.JPG)
 
 ## Detection on video
  soon
